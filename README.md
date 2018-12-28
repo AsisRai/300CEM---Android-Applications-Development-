@@ -1,3 +1,6 @@
+Link to the Main repo - https://github.coventry.ac.uk/300CEM-1718SEPJAN/300CEM_Andriod_assignment
+
+
 300CEM_Andriod_assignment - Asis
 OLD IDEA: FLagBook
 
