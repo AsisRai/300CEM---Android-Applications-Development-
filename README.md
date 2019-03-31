@@ -3,11 +3,11 @@ Link to the Main repo - https://github.coventry.ac.uk/300CEM-1718SEPJAN/300CEM_A
 Link to Submission Video - https://www.youtube.com/watch?v=L9UmLZGHmEE
 
 
-~~300CEM_Andriod_assignment - Asis
-OLD IDEA: FLagBook
+~~300CEM_Andriod_assignment - Asis~~
+~~OLD IDEA: FLagBook~~
 
 ~~Scan flags/national flags to know what country’s flag it is (too hard, it did not work when i used Google's image API to scan the image(flag), it did not work every-time, therefore it is not viable)
-New Idea (After some research)~
+New Idea (After some research)~~
 
 App Name: CovFreshersGuide
 
